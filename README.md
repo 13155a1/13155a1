@@ -35,11 +35,8 @@
   <h1>💻 Baekjoon Online Judge 💻</h1>
 </div><br>
 
-<div align="center">
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aprilfo01s)](https://solved.ac/{handle})
-</div><br>
-
 
 <!--
 **13155a1/13155a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

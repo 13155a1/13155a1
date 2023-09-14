@@ -24,6 +24,17 @@
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 </div>
 
+<div align="center">
+  <h2>💻 server 💻</h2>
+</div>
+
+<div align="center">
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" />
+	<img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+</div>
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13155a1&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=13155a1&show_icons=true">
@@ -32,7 +43,7 @@
 <br>
 
 <div align="center">
-  <h1>💻 Baekjoon Online Judge 💻</h1>
+  <h1>🚩 Baekjoon Online Judge 🚩</h1>
 </div><br>
 
 <div align="center">

@@ -45,6 +45,7 @@
       <th>project</th>
       <th>Tech Stack</th>
       <th>Year</th>
+	<th>GitHub</th>
     </tr>
     <tr>
       <td><a href="https://drive.google.com/file/d/15VXm0KVYfjIYbRgcn1ALwNySjfl2Sclr/view?usp=sharing">Silver Campus: 노인을 위한 인터넷 강의 플랫폼 </a></td>
@@ -53,6 +54,7 @@
 	      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
       </td>
       <td>2023</td>
+	<td><a href="https://github.com/SilverCampus/aws_server.git">🔗</a></td>
     </tr>
     <tr>
 	<td><a href="https://drive.google.com/file/d/1945aEB5-ACmhwBmIQ8RvrZTrknFFhc8T/view?usp=sharing">WHAPLY:대학생 음악 취향 공유 서비스</a></td>
@@ -61,6 +63,7 @@
 	      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 	</td>
 	<td>2023</td>
+	<td><a href="https://github.com/Sinchon-Hackathon-Team2/server_re.git">🔗</a></td>
     </tr>
     <tr>
       <td><a href="https://www.instagram.com/p/CxXXS88P2Q9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">2023 서강대학교 축제:CARDINAL 공식 사이트</a></td>
@@ -69,6 +72,7 @@
 	      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 	</td>
 	<td>2023</td>
+	<td><a href="https://github.com/sogangfestival/server.git">🔗</a></td>
     </tr>
     <tr>
       <td><a href="링크">튜플:과외 관리 플랫폼</a></td>
@@ -77,6 +81,7 @@
 	      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 	</td>
 	<td>2023</td>
+	<td><a href="깃허브 링크">🔗</a></td>
     </tr>
   </table>
 </div>

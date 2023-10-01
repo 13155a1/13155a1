@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h2>✨languages ✨ </h2>
+  <h2>✨Languages ✨ </h2>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h2>💻 server 💻</h2>
+  <h2>💻 Server 💻</h2>
 </div>
 
 <div align="center">
@@ -35,10 +35,42 @@
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 </div>
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13155a1&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=13155a1&show_icons=true">
--->
+<div align="center">
+  <h2>🍎 Projects 🍎</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>project</th>
+      <th>Tech Stack</th>
+      <th>Year</th>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/file/d/15VXm0KVYfjIYbRgcn1ALwNySjfl2Sclr/view?usp=sharing">Silver Campus: 노인을 위한 인터넷 강의 플랫폼 </a></td>
+      <td>
+	      <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+	      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+      </td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td><a href="링크">WHAPLY</a></td>
+      <td>대학생 음악 취향 공유 서비스</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="링크">2023 서강대학교 축제: CARDINAL</a></td>
+      <td>공식 사이트</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td><a href="링크">튜플</a></td>
+      <td>과외 관리 플랫폼</td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -50,17 +82,3 @@
 	<img class="centered-image" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aprilfo01s" alt="Solved.ac 프로필">
 </div>
 
-<!--
-**13155a1/13155a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

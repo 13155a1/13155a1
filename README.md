@@ -2,6 +2,8 @@
   <h1>📚 Tech Stack 📚</h1>
 </div>
 
+<br>
+
 <div align="center">
   <h2>✨ Languages ✨</h2>
 </div>

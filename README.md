@@ -34,6 +34,10 @@
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 </div>
 
+<br>
+<br>
+<br>
+
 <div align="center">
   <h1>🍎 Projects 🍎</h1>
 </div>
@@ -91,6 +95,8 @@
   </table>
 </div>
 
+<br>
+<br>
 <br>
 
 <div align="center">

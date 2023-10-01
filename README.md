@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <h2>🍎 Projects 🍎</h2>
+  <h1>🍎 Projects 🍎</h1>
 </div>
 
 <div align="center">
@@ -51,6 +51,9 @@
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
       <td><a href="https://github.com/SilverCampus/aws_server.git">🔗</a></td>
@@ -69,6 +72,9 @@
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
       <td><a href="https://github.com/sogangfestival/server.git">🔗</a></td>

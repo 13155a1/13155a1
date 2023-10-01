@@ -55,19 +55,28 @@
       <td>2023</td>
     </tr>
     <tr>
-      <td><a href="링크">WHAPLY</a></td>
-      <td>대학생 음악 취향 공유 서비스</td>
-      <td></td>
+	<td><a href="https://drive.google.com/file/d/1945aEB5-ACmhwBmIQ8RvrZTrknFFhc8T/view?usp=sharing">WHAPLY:대학생 음악 취향 공유 서비스</a></td>
+	<td>
+	      <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+	      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	</td>
+	<td>2023</td>
     </tr>
     <tr>
-      <td><a href="링크">2023 서강대학교 축제: CARDINAL</a></td>
-      <td>공식 사이트</td>
-      <td>2023</td>
+      <td><a href="https://www.instagram.com/p/CxXXS88P2Q9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">2023 서강대학교 축제:CARDINAL 공식 사이트</a></td>
+      <td>
+	      <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+	      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	</td>
+	<td>2023</td>
     </tr>
     <tr>
-      <td><a href="링크">튜플</a></td>
-      <td>과외 관리 플랫폼</td>
-      <td></td>
+      <td><a href="링크">튜플:과외 관리 플랫폼</a></td>
+      <td>
+	      <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
+	      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+	</td>
+	<td>2023</td>
     </tr>
   </table>
 </div>

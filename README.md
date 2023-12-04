@@ -95,7 +95,7 @@
       <td><a href="https://github.com/LIKELION-TUPLE/SERVER.git">🔗</a></td>
     </tr>
     <tr>	
-      <td><a href="https://www.notion.so/6973135daf4248c29139c8c75851450b?pvs=4">지하철에서 살아남기</a></td>
+      <td><a href="https://file.notion.so/f/f/8d7ae215-ed29-46ba-88cb-25d0d6cd52f9/c1988e70-c0f1-4bbd-a6c4-e6861139db9e/2%EC%B0%A8_%EC%9D%B8%EC%82%AC%EC%9D%B4%EC%BD%98_%EC%B6%9C%EA%B7%BC%EA%B8%B8%EC%97%90%EC%84%9C_%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0.pdf?id=b1bd9ef0-ce6b-45b5-84d9-2c1f5acf621a&table=block&spaceId=8d7ae215-ed29-46ba-88cb-25d0d6cd52f9&expirationTimestamp=1701820800000&signature=xNtYnvgGbE44o7NKkYHR8wGLkEStbcn1XB-ZXD-IU8A&downloadName=2%EC%B0%A8+%EC%9D%B8%EC%82%AC%EC%9D%B4%EC%BD%98_%EC%B6%9C%EA%B7%BC%EA%B8%B8%EC%97%90%EC%84%9C+%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0.pdf">지하철에서 살아남기</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>

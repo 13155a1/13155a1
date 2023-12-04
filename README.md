@@ -92,7 +92,7 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
       </td>
       <td>2023</td>
-      <td><a href="깃허브 링크">🔗</a></td>
+      <td><a href="https://github.com/LIKELION-TUPLE/SERVER.git">🔗</a></td>
     </tr>
   </table>
 </div>

@@ -86,7 +86,7 @@
       <td><a href="https://github.com/sogangfestival/server.git">🔗</a></td>
     </tr>
     <tr>
-      <td><a href="링크">튜플 : 과외 관리 플랫폼</a></td>
+      <td><a href="https://file.notion.so/f/f/7a974237-27f3-4c53-8aed-07d8a7193875/23da34dd-8bae-4ea4-9de4-efa404de94b9/%ED%8A%9C%ED%94%8C.pdf?id=ce2147bb-3751-4d96-a844-3b6ac09f92d4&table=block&spaceId=7a974237-27f3-4c53-8aed-07d8a7193875&expirationTimestamp=1701763200000&signature=qgZOIpySkSBXToO6l3_BHPHhcLUzWSYjeP319K6G0vE&downloadName=%ED%8A%9C%ED%94%8C.pdf">튜플 : 과외 관리 플랫폼</a></td>
       <td>
         <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />

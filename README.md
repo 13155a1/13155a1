@@ -94,8 +94,34 @@
       <td>2023</td>
       <td><a href="https://github.com/LIKELION-TUPLE/SERVER.git">🔗</a></td>
     </tr>
+    <tr>	
+      <td><a href="https://www.notion.so/insightsg/3-75d6744dc86e488e9dab395572206de9?pvs=4">지하철에서 살아남기</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+      </td>
+      <td>2023</td>
+      <td><a href="https://github.com/INSIGHT-SUBWAY/SERVER.git">🔗</a></td>
   </table>
 </div>
+
+<!-- 
+<tr>
+      <td><a href="프로젝트 링크">프로젝트 이름</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+      </td>
+      <td>2023</td>
+      <td><a href="깃허브 링크">🔗</a></td>
+    </tr>
+-->
 
 <br>
 <br>

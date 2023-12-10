@@ -86,7 +86,7 @@
       <td><a href="https://github.com/sogangfestival/server.git">🔗</a></td>
     </tr>
     <tr>
-      <td><a href="https://file.notion.so/f/f/7a974237-27f3-4c53-8aed-07d8a7193875/23da34dd-8bae-4ea4-9de4-efa404de94b9/%ED%8A%9C%ED%94%8C.pdf?id=ce2147bb-3751-4d96-a844-3b6ac09f92d4&table=block&spaceId=7a974237-27f3-4c53-8aed-07d8a7193875&expirationTimestamp=1701763200000&signature=qgZOIpySkSBXToO6l3_BHPHhcLUzWSYjeP319K6G0vE&downloadName=%ED%8A%9C%ED%94%8C.pdf">튜플 : 과외 관리 플랫폼</a></td>
+      <td><a href="https://drive.google.com/file/d/1EJy3v6WxJCGw8ON2Ssh7MkVyjetKmRid/view?usp=sharing">튜플 : 과외 관리 플랫폼</a></td>
       <td>
         <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
@@ -95,7 +95,7 @@
       <td><a href="https://github.com/LIKELION-TUPLE/SERVER.git">🔗</a></td>
     </tr>
     <tr>	
-      <td><a href="https://file.notion.so/f/f/8d7ae215-ed29-46ba-88cb-25d0d6cd52f9/c1988e70-c0f1-4bbd-a6c4-e6861139db9e/2%EC%B0%A8_%EC%9D%B8%EC%82%AC%EC%9D%B4%EC%BD%98_%EC%B6%9C%EA%B7%BC%EA%B8%B8%EC%97%90%EC%84%9C_%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0.pdf?id=b1bd9ef0-ce6b-45b5-84d9-2c1f5acf621a&table=block&spaceId=8d7ae215-ed29-46ba-88cb-25d0d6cd52f9&expirationTimestamp=1701820800000&signature=xNtYnvgGbE44o7NKkYHR8wGLkEStbcn1XB-ZXD-IU8A&downloadName=2%EC%B0%A8+%EC%9D%B8%EC%82%AC%EC%9D%B4%EC%BD%98_%EC%B6%9C%EA%B7%BC%EA%B8%B8%EC%97%90%EC%84%9C+%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0.pdf">지하철에서 살아남기</a></td>
+      <td><a href="https://drive.google.com/file/d/159Sz5OhlOVTmo79FnLB9b68Bs0c8CkZc/view?usp=sharing">지하철에서 살아남기</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>

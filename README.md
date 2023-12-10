@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h2>✨ Languages ✨</h2>
+  <h3>✨ Languages ✨</h3>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h2>🛠️ Tools 🛠️</h2>
+  <h3>🛠️ Tools 🛠️</h3>
 </div>
 
 <div align="center">
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <h2>💻 Server 💻</h2>
+  <h3>💻 Server 💻</h3>
 </div>
 
 <div align="center">

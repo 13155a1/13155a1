@@ -37,6 +37,14 @@
 	<img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white" />
 </div>
 
+<div align="center">
+  <h3>🗂️ DB 🗂️ </h3>
+</div>
+
+<div align="center">
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</div>
+
 <br>
 <br>
 <br>

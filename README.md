@@ -70,7 +70,7 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
-      <td>2023</td>
+      <td>2024</td>
       <td><a href="https://github.com/LIKELION-SOGANG/LIKELION-WEBSITE-SERVER.git">🔗</a></td>
     </tr>
     <tr>

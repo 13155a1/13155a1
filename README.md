@@ -61,6 +61,18 @@
       <th>Year</th>
       <th>GitHub</th>
     </tr>
+	<tr>
+      <td><a href="https://www.likelionsg.site/">멋쟁이사자처럼 서강대학교 공식 홈페이지</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+      </td>
+      <td>2023</td>
+      <td><a href="https://github.com/LIKELION-SOGANG/LIKELION-WEBSITE-SERVER.git">🔗</a></td>
+    </tr>
     <tr>
       <td><a href="https://drive.google.com/file/d/15VXm0KVYfjIYbRgcn1ALwNySjfl2Sclr/view?usp=sharing">Silver Campus : 노인을 위한 인터넷 강의 플랫폼</a></td>
       <td>
@@ -95,7 +107,7 @@
       <td><a href="https://github.com/sogangfestival/server.git">🔗</a></td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1EJy3v6WxJCGw8ON2Ssh7MkVyjetKmRid/view?usp=sharing">튜플 : 과외 관리 플랫폼</a></td>
+      <td><a href="https://drive.google.com/file/d/1EJy3v6WxJCGw8ON2Ssh7MkVyjetKmRid/view?usp=sharing">TU:PL - 과외 관리 플랫폼</a></td>
       <td>
         <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />

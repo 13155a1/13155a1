@@ -73,6 +73,62 @@
       <td>2024</td>
       <td><a href="https://github.com/LIKELION-SOGANG/LIKELION-WEBSITE-SERVER.git">🔗</a></td>
     </tr>
+	  <tr>
+      <td><a href="https://accessible-cloud-5fc.notion.site/Puzzle-1c7fa9b13cbe471395f3b205331b326b">" PuzzleU "</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+      </td>
+      <td>2024</td>
+      <td><a href="https://github.com/PuzzleU/puzzle-Server.git">🔗</a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://www.instagram.com/p/C4DJaIKyUX8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">연애 고수 서담이와 채팅하기</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+      </td>
+      <td>2024</td>
+      <td><a href="https://github.com/ssodam-project/BackEnd.git">🔗</a></td>
+    </tr>
+	  <tr>	
+      <td><a href="https://drive.google.com/file/d/159Sz5OhlOVTmo79FnLB9b68Bs0c8CkZc/view?usp=sharing">지하철에서 살아남기</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+      </td>
+      <td>2023</td>
+      <td><a href="https://github.com/INSIGHT-SUBWAY/SERVER.git">🔗</a></td>
+	  <tr>
+      <td><a href="https://www.instagram.com/p/CxXXS88P2Q9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">2023 서강대학교 축제 : CARDINAL 공식 사이트</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+      </td>
+      <td>2023</td>
+      <td><a href="https://github.com/sogangfestival/server.git">🔗</a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://drive.google.com/file/d/1EJy3v6WxJCGw8ON2Ssh7MkVyjetKmRid/view?usp=sharing">TU:PL - 과외 관리 플랫폼</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+      </td>
+      <td>2023</td>
+      <td><a href="https://github.com/LIKELION-TUPLE/SERVER.git">🔗</a></td>
+    </tr>
     <tr>
       <td><a href="https://drive.google.com/file/d/15VXm0KVYfjIYbRgcn1ALwNySjfl2Sclr/view?usp=sharing">Silver Campus : 노인을 위한 인터넷 강의 플랫폼</a></td>
       <td>
@@ -94,38 +150,6 @@
       <td>2023</td>
       <td><a href="https://github.com/Sinchon-Hackathon-Team2/server_re.git">🔗</a></td>
     </tr>
-    <tr>
-      <td><a href="https://www.instagram.com/p/CxXXS88P2Q9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">2023 서강대학교 축제 : CARDINAL 공식 사이트</a></td>
-      <td>
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
-      </td>
-      <td>2023</td>
-      <td><a href="https://github.com/sogangfestival/server.git">🔗</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://drive.google.com/file/d/1EJy3v6WxJCGw8ON2Ssh7MkVyjetKmRid/view?usp=sharing">TU:PL - 과외 관리 플랫폼</a></td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-      </td>
-      <td>2023</td>
-      <td><a href="https://github.com/LIKELION-TUPLE/SERVER.git">🔗</a></td>
-    </tr>
-    <tr>	
-      <td><a href="https://drive.google.com/file/d/159Sz5OhlOVTmo79FnLB9b68Bs0c8CkZc/view?usp=sharing">지하철에서 살아남기</a></td>
-      <td>
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
-      </td>
-      <td>2023</td>
-      <td><a href="https://github.com/INSIGHT-SUBWAY/SERVER.git">🔗</a></td>
   </table>
 </div>
 

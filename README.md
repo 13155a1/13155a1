@@ -1,12 +1,12 @@
-<div align="center">
+<div>
   <h3>📚 Tech Stack 📚</h3>
 </div>
 
-<div align="center">
+<div>
   <h5>Languages</h5>
 </div>
 
-<div align="center">
+<div>
 	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -15,20 +15,20 @@
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
 </div>
 
-<div align="center">
+<div>
   <h5>Tools</h5>
 </div>
 
-<div align="center">
+<div>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 </div>
 
-<div align="center">
+<div>
   <h5>Infra</h5>
 </div>
 
-<div align="center">
+<div>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" />
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
@@ -40,11 +40,11 @@
 
 <br>
 
-<div align="center">
+<div>
   <h3>🍎 Projects 🍎</h3>
 </div>
 
-<div align="center">
+<div>
   <table>
     <tr>
       <th>Project</th>
@@ -160,11 +160,11 @@
 -->
 
 <br/>
-<div align="center">
+<div>
   <h3>🚩 Baekjoon Online Judge 🚩</h3>
 </div><br>
 
-<div align="center">
+<div>
   <img class="centered-image" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aprilfo01s" alt="Solved.ac 프로필">
 </div>
 

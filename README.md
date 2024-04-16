@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <h3>💻 Server 💻</h3>
+  <h3>🗂️ Infra 🗂️</h3>
 </div>
 
 <div align="center">
@@ -34,13 +34,6 @@
 	<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" />
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 	<img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white" />
-</div>
-
-<div align="center">
-  <h3>🗂️ DB 🗂️ </h3>
-</div>
-
-<div align="center">
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
 </div>

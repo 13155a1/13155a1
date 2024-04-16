@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>📚 Tech Stack 📚</h1>
+  <h3>📚 Tech Stack 📚</h3>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>✨ Languages ✨</h3>
+  <h5>✨ Languages ✨</h5>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h3>🛠️ Tools 🛠️</h3>
+  <h5>🛠️ Tools 🛠️</h5>
 </div>
 
 <div align="center">
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <h3>🗂️ Infra 🗂️</h3>
+  <h5>🗂️ Infra 🗂️</h5>
 </div>
 
 <div align="center">

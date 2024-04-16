@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h5>✨ Languages ✨</h5>
+  <h5>Languages</h5>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h5>🛠️ Tools 🛠️</h5>
+  <h5>Tools</h5>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h5>🗂️ Infra 🗂️</h5>
+  <h5>Infra</h5>
 </div>
 
 <div align="center">

@@ -2,8 +2,6 @@
   <h3>📚 Tech Stack 📚</h3>
 </div>
 
-<br>
-
 <div align="center">
   <h5>✨ Languages ✨</h5>
 </div>
@@ -39,11 +37,9 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <div align="center">
-  <h1>🍎 Projects 🍎</h1>
+  <h3>🍎 Projects 🍎</h3>
 </div>
 
 <div align="center">
@@ -161,12 +157,9 @@
     </tr>
 -->
 
-<br>
-<br>
-<br>
-
+<br/>
 <div align="center">
-  <h1>🚩 Baekjoon Online Judge 🚩</h1>
+  <h3>🚩 Baekjoon Online Judge 🚩</h3>
 </div><br>
 
 <div align="center">
